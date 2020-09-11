@@ -3,7 +3,7 @@
 
 ![1200px-15-puzzle_magical svg](https://user-images.githubusercontent.com/28729727/92978328-1e1da400-f4ad-11ea-9758-fa1c64a627a8.png)
 
-Objective of the Game .
+### Objective of the Game .
 
 Given a Random Board of 15 Pieces .You need to move the pieces in such a way that all pieces will be in asceding order or correct order .
 You can refer the below link for the Game details .The Correct order is the one shown in the picture .
@@ -55,7 +55,7 @@ Moves Related Functions are There in MovesUtils.h
 ## Reversi Game
 ![download](https://user-images.githubusercontent.com/28729727/92978499-908e8400-f4ad-11ea-92b9-4fc5dce55fcc.jpg)
 
-Objective of the Game .
+### Objective of the Game .
 
 Given a NxN Square Board of containing Whites and Blacks , the game is played between two players.
 where each player owns one color (onePlayer chooses white and anotherPlayer chooses black).
